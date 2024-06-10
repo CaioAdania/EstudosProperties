@@ -1,0 +1,14 @@
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\bin\Debug\net8.0\EstudosProperties.exe
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\bin\Debug\net8.0\EstudosProperties.deps.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\bin\Debug\net8.0\EstudosProperties.runtimeconfig.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\bin\Debug\net8.0\EstudosProperties.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\bin\Debug\net8.0\EstudosProperties.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\obj\Debug\net8.0\EstudosProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\obj\Debug\net8.0\EstudosProperties.AssemblyInfoInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\obj\Debug\net8.0\EstudosProperties.AssemblyInfo.cs
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\obj\Debug\net8.0\EstudosProperties.csproj.CoreCompileInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\obj\Debug\net8.0\EstudosProperties.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\obj\Debug\net8.0\refint\EstudosProperties.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\obj\Debug\net8.0\EstudosProperties.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\obj\Debug\net8.0\EstudosProperties.genruntimeconfig.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosProperties\EstudosProperties\obj\Debug\net8.0\ref\EstudosProperties.dll
